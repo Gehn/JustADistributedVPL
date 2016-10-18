@@ -1,0 +1,5 @@
+This is the prototype implementation of a distributed Visual Programming Language.
+
+It is functional, but no promises of non-edge-cases/broken corners.  (You'll note many in code TODOs of various self-hating-nature)
+
+Runs python-based "modules" implemented in the states.py file, which can be connected into a state machine and run across multiple physical nodes running the VPL daemon.
